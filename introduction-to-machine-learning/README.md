@@ -1,0 +1,2 @@
+# Introduction to Machine Learning
+In this assignment, machine learning is introduced along with some of it's basic learning methods. We use the "Scikit Learn" library to implement methods such as decision tree classification, KNN classification, logistic regression, bagging classification and voting classification. The dataset used in this assignment contains data about purchases made at a store (The price, quantity, date of purchase, customer id and the customer's country of origin are included) and if the customer has returned to the shop or not afterwards.
